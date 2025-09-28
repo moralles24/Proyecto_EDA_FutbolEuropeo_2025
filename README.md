@@ -68,4 +68,4 @@ Este trabajo abre la puerta a futuros análisis como:
 # Autor
 
 **Daniel Morales López**
-Proyecto académico de análisis de datos deportivos (2025).
+Proyecto de análisis de datos deportivos (2025).
